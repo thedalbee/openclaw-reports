@@ -1,11 +1,6 @@
-# Rejects / excluded sources
+# Rejects / exclusions
 
-Excluded because they were contest-info-only, gated, listing-only, or did not expose a directly viewable winning work asset during this pass.
+Only entries with a parsed D&AD awarded level and viewable creative asset thumbnail were kept.
 
-- `https://www.lovethework.com/en` — general The Work homepage; not a specific viewable winning work.
-- `https://www.lovethework.com/en/awards/winners-shortlists` — awards/listing page; useful for verification but contest-info-only without direct media in the extracted result.
-- `https://www.lovethework.com/en/awards/winners-shortlists/cannes-lions/...` category pages — category listings; not individual viewable work assets in this pass.
-- Random TikTok Awards / creator-award pages surfaced by search — mostly event winner lists or creator-award news, not brand campaign work with viewable winning ad/case media.
-- Generic AI-awards directory pages — contest/platform info only unless an individual awarded work page exposed a playable video.
-
-Kept source: LLLLITL Cannes Lions 2024 Grand Prix roundup, because it lists winning works and embeds playable YouTube videos/case studies.
+- https://www.dandad.org/work/d-ad-awards-archive/dreams-made-in-paris: no viewable creative asset/thumbnail parsed — Dreams Made in Paris
+- https://www.dandad.org/work/d-ad-awards-archive/the-flame-that-wasnt-a-flame: no viewable creative asset/thumbnail parsed — The Flame That Wasn't a Flame
