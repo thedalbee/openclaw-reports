@@ -1,0 +1,245 @@
+[
+  {
+    "id": "specsavers-misheard-version",
+    "brand": "Specsavers",
+    "campaign": "The Misheard Version",
+    "thumbnail_url": "https://i.ytimg.com/vi/3M_htJ6lZ04/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=3M_htJ6lZ04"
+  },
+  {
+    "id": "orange-womens-football",
+    "brand": "Orange",
+    "campaign": "WoMen’s Football",
+    "thumbnail_url": "https://i.ytimg.com/vi/DeijPwBIyK0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=DeijPwBIyK0"
+  },
+  {
+    "id": "sydney-opera-play-it-safe",
+    "brand": "Sydney Opera House",
+    "campaign": "Play It Safe",
+    "thumbnail_url": "https://i.ytimg.com/vi/g5WukwN89pg/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=g5WukwN89pg"
+  },
+  {
+    "id": "magnum-find-your-summer",
+    "brand": "Magnum",
+    "campaign": "Find Your Summer",
+    "thumbnail_url": "https://i.ytimg.com/vi/b-73OnZhB5I/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=b-73OnZhB5I"
+  },
+  {
+    "id": "pedigree-adoptable",
+    "brand": "Pedigree",
+    "campaign": "Adoptable",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZgRQ5UCbMBg/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=ZgRQ5UCbMBg"
+  },
+  {
+    "id": "sol-sightwalks",
+    "brand": "Sol Cement",
+    "campaign": "SightWalks",
+    "thumbnail_url": "https://i.ytimg.com/vi/V1WgJkUErog/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=V1WgJkUErog"
+  },
+  {
+    "id": "spotify-spreadbeats",
+    "brand": "Spotify",
+    "campaign": "Spreadbeats",
+    "thumbnail_url": "https://i.ytimg.com/vi/Z_lbVlhO9HE/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=Z_lbVlhO9HE"
+  },
+  {
+    "id": "hornbach-square-meter",
+    "brand": "Hornbach",
+    "campaign": "The Square Meter",
+    "thumbnail_url": "https://i.ytimg.com/vi/QmDckNBoKsY/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=QmDckNBoKsY"
+  },
+  {
+    "id": "faz-100th-edition",
+    "brand": "Frankfurter Allgemeine Zeitung",
+    "campaign": "The 100th Edition",
+    "thumbnail_url": "https://i.ytimg.com/vi/zsB-MQfbTSA/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=zsB-MQfbTSA"
+  },
+  {
+    "id": "jcdecaux-meet-marina-prieto",
+    "brand": "JCDecaux",
+    "campaign": "Meet Marina Prieto",
+    "thumbnail_url": "https://i.ytimg.com/vi/4j2UkSs-cSo/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=4j2UkSs-cSo"
+  },
+  {
+    "id": "mastercard-room-for-everyone",
+    "brand": "Mastercard",
+    "campaign": "Room for Everyone / Where To Start",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZezPag4HFKQ/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=ZezPag4HFKQ"
+  },
+  {
+    "id": "xbox-everyday-tactician",
+    "brand": "Xbox",
+    "campaign": "The Everyday Tactician",
+    "thumbnail_url": "https://i.ytimg.com/vi/elq83mERXv0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=elq83mERXv0"
+  },
+  {
+    "id": "mercado-libre-handshake-hunt",
+    "brand": "Mercado Libre",
+    "campaign": "Handshake Hunt",
+    "thumbnail_url": "https://i.ytimg.com/vi/HE7dWzEGEp8/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=HE7dWzEGEp8"
+  },
+  {
+    "id": "cerave-michael-cerave",
+    "brand": "CeraVe",
+    "campaign": "Michael CeraVe",
+    "thumbnail_url": "https://i.ytimg.com/vi/6A9zZpEzJi0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=6A9zZpEzJi0"
+  },
+  {
+    "id": "whatsapp-we-are-ayenda",
+    "brand": "WhatsApp",
+    "campaign": "We Are Ayenda",
+    "thumbnail_url": "https://i.ytimg.com/vi/bAbLK7X9Av0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=bAbLK7X9Av0"
+  },
+  {
+    "id": "poptarts-edible-mascot",
+    "brand": "Pop-Tarts",
+    "campaign": "The First Edible Mascot",
+    "thumbnail_url": "https://i.ytimg.com/vi/BL1zRhmDcVM/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=BL1zRhmDcVM"
+  },
+  {
+    "id": "philips-refurb",
+    "brand": "Philips",
+    "campaign": "Refurb / Better Than New",
+    "thumbnail_url": "https://i.ytimg.com/vi/M8h_Op0qCw0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=M8h_Op0qCw0"
+  },
+  {
+    "id": "renault-cars-to-work",
+    "brand": "Renault",
+    "campaign": "Cars to Work",
+    "thumbnail_url": "https://i.ytimg.com/vi/BqNMNEWqlvc/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=BqNMNEWqlvc"
+  },
+  {
+    "id": "kvi-voice-2-diabetes",
+    "brand": "KVI Brave Fund",
+    "campaign": "Voice 2 Diabetes",
+    "thumbnail_url": "https://i.ytimg.com/vi/WnhoVV0W0Yw/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=WnhoVV0W0Yw"
+  },
+  {
+    "id": "loewe-suna-fujita",
+    "brand": "Loewe",
+    "campaign": "Loewe x Suna Fujita",
+    "thumbnail_url": "https://i.ytimg.com/vi/Nims1jPxhqI/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=Nims1jPxhqI"
+  },
+  {
+    "id": "vaseline-transition-body-lotion",
+    "brand": "Vaseline",
+    "campaign": "Transition Body Lotion",
+    "thumbnail_url": "https://i.ytimg.com/vi/WNz9rZJYY_g/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=WNz9rZJYY_g"
+  },
+  {
+    "id": "unwomen-child-wedding-cards",
+    "brand": "UN Women",
+    "campaign": "Child Wedding Cards",
+    "thumbnail_url": "https://i.ytimg.com/vi/CGhTybNXzeQ/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=CGhTybNXzeQ"
+  },
+  {
+    "id": "dramamine-last-barf-bag",
+    "brand": "Dramamine",
+    "campaign": "The Last Barf Bag",
+    "thumbnail_url": "https://i.ytimg.com/vi/v9zuanOf8u0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=v9zuanOf8u0"
+  },
+  {
+    "id": "siemens-magnetic-stories",
+    "brand": "Siemens Healthineers",
+    "campaign": "Magnetic Stories",
+    "thumbnail_url": "https://i.ytimg.com/vi/PJGgMzJb8qc/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=PJGgMzJb8qc"
+  },
+  {
+    "id": "heinz-it-has-to-be-heinz",
+    "brand": "Heinz",
+    "campaign": "It Has to Be Heinz",
+    "thumbnail_url": "https://i.ytimg.com/vi/vq2LJLKBuO8/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=vq2LJLKBuO8"
+  },
+  {
+    "id": "kpn-a-piece-of-me",
+    "brand": "KPN",
+    "campaign": "A Piece of Me",
+    "thumbnail_url": "https://i.ytimg.com/vi/k356d-HPKu0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=k356d-HPKu0"
+  },
+  {
+    "id": "doordash-all-the-ads",
+    "brand": "DoorDash",
+    "campaign": "DoorDash All The Ads",
+    "thumbnail_url": "https://i.ytimg.com/vi/GqWn9oWBAoc/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "viewable_url": "https://www.youtube.com/watch?v=GqWn9oWBAoc"
+  }
+]

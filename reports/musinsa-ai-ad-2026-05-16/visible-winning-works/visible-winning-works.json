@@ -1,0 +1,824 @@
+[
+  {
+    "id": "specsavers-misheard-version",
+    "rank": 1,
+    "brand": "Specsavers",
+    "campaign": "The Misheard Version",
+    "agency": "Golin, London",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Audio & Radio Grand Prix",
+      "PR Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=3M_htJ6lZ04",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/3M_htJ6lZ04/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "3M_htJ6lZ04",
+        "url": "https://www.youtube.com/watch?v=3M_htJ6lZ04",
+        "thumbnail_url": "https://i.ytimg.com/vi/3M_htJ6lZ04/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "audio-led integrated craft / earned idea",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "orange-womens-football",
+    "rank": 2,
+    "brand": "Orange",
+    "campaign": "WoMen’s Football",
+    "agency": "Marcel, Paris",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Film Grand Prix",
+      "Entertainment for Sport Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=DeijPwBIyK0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/DeijPwBIyK0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "DeijPwBIyK0",
+        "url": "https://www.youtube.com/watch?v=DeijPwBIyK0",
+        "thumbnail_url": "https://i.ytimg.com/vi/DeijPwBIyK0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      },
+      {
+        "platform": "youtube",
+        "video_id": "X_wLVRYHIS4",
+        "url": "https://www.youtube.com/watch?v=X_wLVRYHIS4",
+        "thumbnail_url": "https://i.ytimg.com/vi/X_wLVRYHIS4/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "VFX/AI-adjacent reveal, sports/fashionable identity cues",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "sydney-opera-play-it-safe",
+    "rank": 3,
+    "brand": "Sydney Opera House",
+    "campaign": "Play It Safe",
+    "agency": "The Monkeys, Sydney",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Film Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=g5WukwN89pg",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/g5WukwN89pg/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "g5WukwN89pg",
+        "url": "https://www.youtube.com/watch?v=g5WukwN89pg",
+        "thumbnail_url": "https://i.ytimg.com/vi/g5WukwN89pg/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "cinematic culture launch film",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "magnum-find-your-summer",
+    "rank": 4,
+    "brand": "Magnum",
+    "campaign": "Find Your Summer",
+    "agency": "Lola MullenLowe, Madrid",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Outdoor Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=b-73OnZhB5I",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/b-73OnZhB5I/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "b-73OnZhB5I",
+        "url": "https://www.youtube.com/watch?v=b-73OnZhB5I",
+        "thumbnail_url": "https://i.ytimg.com/vi/b-73OnZhB5I/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "OOH visual metaphor",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "pedigree-adoptable",
+    "rank": 5,
+    "brand": "Pedigree",
+    "campaign": "Adoptable",
+    "agency": "Colenso BBDO, Auckland",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Outdoor Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=ZgRQ5UCbMBg",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZgRQ5UCbMBg/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "ZgRQ5UCbMBg",
+        "url": "https://www.youtube.com/watch?v=ZgRQ5UCbMBg",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZgRQ5UCbMBg/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "data/AI-assisted dynamic creative system",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "sol-sightwalks",
+    "rank": 6,
+    "brand": "Sol Cement",
+    "campaign": "SightWalks",
+    "agency": "Circus Grey, Lima",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Design Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=V1WgJkUErog",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/V1WgJkUErog/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "V1WgJkUErog",
+        "url": "https://www.youtube.com/watch?v=V1WgJkUErog",
+        "thumbnail_url": "https://i.ytimg.com/vi/V1WgJkUErog/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "design utility with clear before/after proof",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "spotify-spreadbeats",
+    "rank": 7,
+    "brand": "Spotify",
+    "campaign": "Spreadbeats",
+    "agency": "FCB, New York",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Digital Craft Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=Z_lbVlhO9HE",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/Z_lbVlhO9HE/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "Z_lbVlhO9HE",
+        "url": "https://www.youtube.com/watch?v=Z_lbVlhO9HE",
+        "thumbnail_url": "https://i.ytimg.com/vi/Z_lbVlhO9HE/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "platform-native craft / hidden-media idea",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "hornbach-square-meter",
+    "rank": 8,
+    "brand": "Hornbach",
+    "campaign": "The Square Meter",
+    "agency": "Heimat TBWA, Berlin",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Film Craft Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=QmDckNBoKsY",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/QmDckNBoKsY/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "QmDckNBoKsY",
+        "url": "https://www.youtube.com/watch?v=QmDckNBoKsY",
+        "thumbnail_url": "https://i.ytimg.com/vi/QmDckNBoKsY/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "single-object cinematic storytelling",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "faz-100th-edition",
+    "rank": 9,
+    "brand": "Frankfurter Allgemeine Zeitung",
+    "campaign": "The 100th Edition",
+    "agency": "Scholz & Friends / Heimat TBWA, Berlin",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Industry Craft Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=zsB-MQfbTSA",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/zsB-MQfbTSA/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "zsB-MQfbTSA",
+        "url": "https://www.youtube.com/watch?v=zsB-MQfbTSA",
+        "thumbnail_url": "https://i.ytimg.com/vi/zsB-MQfbTSA/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "print/product craft case film",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "jcdecaux-meet-marina-prieto",
+    "rank": 10,
+    "brand": "JCDecaux",
+    "campaign": "Meet Marina Prieto",
+    "agency": "DAVID, Madrid",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Creative B2B Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=4j2UkSs-cSo",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/4j2UkSs-cSo/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "4j2UkSs-cSo",
+        "url": "https://www.youtube.com/watch?v=4j2UkSs-cSo",
+        "thumbnail_url": "https://i.ytimg.com/vi/4j2UkSs-cSo/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "OOH/social proof stunt",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "mastercard-room-for-everyone",
+    "rank": 11,
+    "brand": "Mastercard",
+    "campaign": "Room for Everyone / Where To Start",
+    "agency": "McCann, Warsaw",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Creative Data Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=ZezPag4HFKQ",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/ZezPag4HFKQ/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "ZezPag4HFKQ",
+        "url": "https://www.youtube.com/watch?v=ZezPag4HFKQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZezPag4HFKQ/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "data personalization for inclusion",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "xbox-everyday-tactician",
+    "rank": 12,
+    "brand": "Xbox",
+    "campaign": "The Everyday Tactician",
+    "agency": "McCann, London",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Direct Grand Prix",
+      "Entertainment for Gaming Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=elq83mERXv0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/elq83mERXv0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "elq83mERXv0",
+        "url": "https://www.youtube.com/watch?v=elq83mERXv0",
+        "thumbnail_url": "https://i.ytimg.com/vi/elq83mERXv0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "community/gameplay-native talent idea",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "mercado-libre-handshake-hunt",
+    "rank": 13,
+    "brand": "Mercado Libre",
+    "campaign": "Handshake Hunt",
+    "agency": "GUT, São Paulo",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Media Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=HE7dWzEGEp8",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/HE7dWzEGEp8/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "HE7dWzEGEp8",
+        "url": "https://www.youtube.com/watch?v=HE7dWzEGEp8",
+        "thumbnail_url": "https://i.ytimg.com/vi/HE7dWzEGEp8/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "media behavior hack",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "cerave-michael-cerave",
+    "rank": 14,
+    "brand": "CeraVe",
+    "campaign": "Michael CeraVe",
+    "agency": "Ogilvy PR, New York",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Social & Influencer Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=6A9zZpEzJi0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/6A9zZpEzJi0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "6A9zZpEzJi0",
+        "url": "https://www.youtube.com/watch?v=6A9zZpEzJi0",
+        "thumbnail_url": "https://i.ytimg.com/vi/6A9zZpEzJi0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "creator/conspiracy-native launch",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "whatsapp-we-are-ayenda",
+    "rank": 15,
+    "brand": "WhatsApp",
+    "campaign": "We Are Ayenda",
+    "agency": "Creative X, Palo Alto",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Entertainment Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=bAbLK7X9Av0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/bAbLK7X9Av0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "bAbLK7X9Av0",
+        "url": "https://www.youtube.com/watch?v=bAbLK7X9Av0",
+        "thumbnail_url": "https://i.ytimg.com/vi/bAbLK7X9Av0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "documentary-style brand entertainment",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "poptarts-edible-mascot",
+    "rank": 16,
+    "brand": "Pop-Tarts",
+    "campaign": "The First Edible Mascot",
+    "agency": "Weber Shandwick, New York",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Brand Experience & Activation Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=BL1zRhmDcVM",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/BL1zRhmDcVM/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "BL1zRhmDcVM",
+        "url": "https://www.youtube.com/watch?v=BL1zRhmDcVM",
+        "thumbnail_url": "https://i.ytimg.com/vi/BL1zRhmDcVM/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "live stunt + earned spectacle",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "philips-refurb",
+    "rank": 17,
+    "brand": "Philips",
+    "campaign": "Refurb / Better Than New",
+    "agency": "LePub, Amsterdam",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Creative Business Transformation Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=M8h_Op0qCw0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/M8h_Op0qCw0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "M8h_Op0qCw0",
+        "url": "https://www.youtube.com/watch?v=M8h_Op0qCw0",
+        "thumbnail_url": "https://i.ytimg.com/vi/M8h_Op0qCw0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "business-model-as-campaign",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "renault-cars-to-work",
+    "rank": 18,
+    "brand": "Renault",
+    "campaign": "Cars to Work",
+    "agency": "Publicis Conseil, Paris",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Creative Commerce Grand Prix",
+      "Sustainable Development Goals Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=BqNMNEWqlvc",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/BqNMNEWqlvc/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "BqNMNEWqlvc",
+        "url": "https://www.youtube.com/watch?v=BqNMNEWqlvc",
+        "thumbnail_url": "https://i.ytimg.com/vi/BqNMNEWqlvc/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "commerce/social-impact mechanism",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "kvi-voice-2-diabetes",
+    "rank": 19,
+    "brand": "KVI Brave Fund",
+    "campaign": "Voice 2 Diabetes",
+    "agency": "Klick Health, Toronto",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Innovation Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=WnhoVV0W0Yw",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/WnhoVV0W0Yw/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "WnhoVV0W0Yw",
+        "url": "https://www.youtube.com/watch?v=WnhoVV0W0Yw",
+        "thumbnail_url": "https://i.ytimg.com/vi/WnhoVV0W0Yw/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "AI/health diagnostic innovation",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "loewe-suna-fujita",
+    "rank": 20,
+    "brand": "Loewe",
+    "campaign": "Loewe x Suna Fujita",
+    "agency": "In-house",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Luxury & Lifestyle Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=Nims1jPxhqI",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/Nims1jPxhqI/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "Nims1jPxhqI",
+        "url": "https://www.youtube.com/watch?v=Nims1jPxhqI",
+        "thumbnail_url": "https://i.ytimg.com/vi/Nims1jPxhqI/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "luxury/fashion capsule film; closest direct fashion reference",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "vaseline-transition-body-lotion",
+    "rank": 21,
+    "brand": "Vaseline",
+    "campaign": "Transition Body Lotion",
+    "agency": "Ogilvy, Singapore",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Glass: The Lion for Change Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=WNz9rZJYY_g",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/WNz9rZJYY_g/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "WNz9rZJYY_g",
+        "url": "https://www.youtube.com/watch?v=WNz9rZJYY_g",
+        "thumbnail_url": "https://i.ytimg.com/vi/WNz9rZJYY_g/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "product innovation + identity insight",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "unwomen-child-wedding-cards",
+    "rank": 22,
+    "brand": "UN Women",
+    "campaign": "Child Wedding Cards",
+    "agency": "Impact BBDO, Dubai",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Health Grand Prix for Good"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=CGhTybNXzeQ",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/CGhTybNXzeQ/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "CGhTybNXzeQ",
+        "url": "https://www.youtube.com/watch?v=CGhTybNXzeQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/CGhTybNXzeQ/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "visual shock/proof product",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "dramamine-last-barf-bag",
+    "rank": 23,
+    "brand": "Dramamine",
+    "campaign": "The Last Barf Bag",
+    "agency": "FCB, Chicago",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Health & Wellness Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=v9zuanOf8u0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/v9zuanOf8u0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "v9zuanOf8u0",
+        "url": "https://www.youtube.com/watch?v=v9zuanOf8u0",
+        "thumbnail_url": "https://i.ytimg.com/vi/v9zuanOf8u0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "category artifact turned media",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "siemens-magnetic-stories",
+    "rank": 24,
+    "brand": "Siemens Healthineers",
+    "campaign": "Magnetic Stories",
+    "agency": "Area 23, New York",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Pharma Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=PJGgMzJb8qc",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/PJGgMzJb8qc/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "PJGgMzJb8qc",
+        "url": "https://www.youtube.com/watch?v=PJGgMzJb8qc",
+        "thumbnail_url": "https://i.ytimg.com/vi/PJGgMzJb8qc/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "experience design / patient anxiety reduction",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "heinz-it-has-to-be-heinz",
+    "rank": 25,
+    "brand": "Heinz",
+    "campaign": "It Has to Be Heinz",
+    "agency": "Rethink, Toronto",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Creative Effectiveness Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=vq2LJLKBuO8",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/vq2LJLKBuO8/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "vq2LJLKBuO8",
+        "url": "https://www.youtube.com/watch?v=vq2LJLKBuO8",
+        "thumbnail_url": "https://i.ytimg.com/vi/vq2LJLKBuO8/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "brand distinctiveness/effectiveness proof",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "kpn-a-piece-of-me",
+    "rank": 26,
+    "brand": "KPN",
+    "campaign": "A Piece of Me",
+    "agency": "Dentsu Creative, Amsterdam",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Creative Strategy Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=k356d-HPKu0",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/k356d-HPKu0/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "k356d-HPKu0",
+        "url": "https://www.youtube.com/watch?v=k356d-HPKu0",
+        "thumbnail_url": "https://i.ytimg.com/vi/k356d-HPKu0/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "social issue strategy + film",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  },
+  {
+    "id": "doordash-all-the-ads",
+    "rank": 27,
+    "brand": "DoorDash",
+    "campaign": "DoorDash All The Ads",
+    "agency": "Wieden+Kennedy, Portland",
+    "award_program": "Cannes Lions International Festival of Creativity",
+    "award_year": 2024,
+    "award_result": [
+      "Dan Wieden Titanium Grand Prix"
+    ],
+    "award_source_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "viewable_url": "https://www.youtube.com/watch?v=GqWn9oWBAoc",
+    "source_page_url": "https://www.llllitl.fr/2024/06/cannes-lions-2024-grand-prix/",
+    "thumbnail_url": "https://i.ytimg.com/vi/GqWn9oWBAoc/maxresdefault.jpg",
+    "thumbnail_source": "YouTube maxresdefault derived from primary video id",
+    "thumbnail_reliability": "high",
+    "video_assets": [
+      {
+        "platform": "youtube",
+        "video_id": "GqWn9oWBAoc",
+        "url": "https://www.youtube.com/watch?v=GqWn9oWBAoc",
+        "thumbnail_url": "https://i.ytimg.com/vi/GqWn9oWBAoc/maxresdefault.jpg",
+        "thumbnail_source": "YouTube maxresdefault derived from video id",
+        "thumbnail_reliability": "high"
+      }
+    ],
+    "why_relevant_to_musinsa_ai_ad": "media integration / everything-is-an-ad",
+    "notes": "Included because the source page lists it as a Cannes Lions 2024 Grand Prix winner and provides an embedded/viewable YouTube film or case study. Contest-info-only pages were excluded."
+  }
+]
